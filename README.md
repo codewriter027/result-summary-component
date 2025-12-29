@@ -10,8 +10,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/codewriter027/result-summary-component]
+- Live Site URL: [https://codewriter027.github.io/result-summary-component/]
 
 ### Built with
 
@@ -21,6 +21,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@codewriter027](https://www.frontendmentor.io/profile/codewriter027)
+- Github - [@codewriter027](https://github.com/codewriter027/)
